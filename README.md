@@ -1,4 +1,4 @@
-This is a partial implementation for paper <u>DMM: Fast Map Matching for Cellular Data.</u>
+This is an implementation for paper <u>DMM: Fast Map Matching for Cellular Data.</u>
 
 ---
 
